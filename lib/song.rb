@@ -19,6 +19,8 @@ class Song
   end
   
   def self.artist
+    @@artist = [] 
+  end
 
   
 end
