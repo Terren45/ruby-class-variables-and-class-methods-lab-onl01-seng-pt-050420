@@ -13,6 +13,7 @@ class Song
      @@genres << genre
      @@artists << artist
   end
+  
 end
   
  
