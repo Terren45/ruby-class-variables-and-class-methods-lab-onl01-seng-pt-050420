@@ -8,7 +8,7 @@ class Song
   end
   
   def name=(name)
-    @name = name
-  end
+    @name
+   end
   
   end
