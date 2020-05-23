@@ -7,5 +7,6 @@ class Song
     @@count =+ 1
     @name = name
   end
+end
   
  
